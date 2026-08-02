@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,8 +29,10 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0088-merge-sorted-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
