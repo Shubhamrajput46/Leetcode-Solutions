@@ -36,6 +36,7 @@
 | [0189-rotate-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
 |  |
 | ------- |
