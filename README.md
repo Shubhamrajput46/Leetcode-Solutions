@@ -61,6 +61,7 @@
 | [0027-remove-element](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -82,6 +83,7 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 ## Simulation
