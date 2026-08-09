@@ -35,6 +35,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -159,4 +162,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 <!---LeetCode Topics End-->
