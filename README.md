@@ -13,6 +13,7 @@
 | [0049-group-anagrams](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
+| [0075-sort-colors](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -79,6 +80,7 @@
 | [0016-3sum-closest](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
@@ -94,6 +96,7 @@
 | [0015-3sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -209,4 +212,12 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0175-combine-two-tables) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
