@@ -33,6 +33,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
+| [1563-stone-game-v](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2029-stone-game-ix](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -84,6 +85,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Two Pointers
@@ -170,6 +172,7 @@
 | [0509-fibonacci-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1563-stone-game-v](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
 | ------- |
@@ -254,6 +257,7 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1563-stone-game-v](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
