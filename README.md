@@ -27,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0877-stone-game](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0912-sort-an-array) |
@@ -69,6 +70,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Divide and Conquer
 |  |
@@ -294,4 +296,8 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
