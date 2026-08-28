@@ -131,6 +131,7 @@
 | [0344-reverse-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -179,6 +180,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Simulation
 |  |
 | ------- |
@@ -335,4 +337,5 @@
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
