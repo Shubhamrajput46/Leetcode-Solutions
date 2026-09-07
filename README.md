@@ -186,6 +186,7 @@
 | [0344-reverse-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0940-distinct-subsequences-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1927-sum-game](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1927-sum-game) |
@@ -215,6 +216,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1563-stone-game-v](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1872-stone-game-viii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
