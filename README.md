@@ -28,6 +28,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0704-binary-search) |
+| [0835-image-overlap](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -272,6 +273,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0835-image-overlap](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [1672-richest-customer-wealth](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Queue
