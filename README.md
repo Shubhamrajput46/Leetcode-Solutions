@@ -37,6 +37,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -70,6 +71,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -92,6 +94,7 @@
 | [0704-binary-search](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Divide and Conquer
@@ -230,6 +233,7 @@
 | [0877-stone-game](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
@@ -292,6 +296,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
