@@ -1,0 +1,9 @@
+class Solution(object):
+    def checkOverlap(self, radius, xCenter, yCenter, x1, y1, x2, y2):
+
+        closestX = max(x1, min(xCenter, x2))
+        closestY = max(y1, min(yCenter, y2))
+
+        distance = (xCenter - closestX) ** 2 + (yCenter - closestY) ** 2
+
+        return distance <= radius ** 2
