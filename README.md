@@ -72,6 +72,7 @@
 | [0242-valid-anagram](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1096-brace-expansion-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -179,6 +180,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1096-brace-expansion-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -211,6 +213,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -409,6 +412,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
 |  |
@@ -427,4 +431,12 @@
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
