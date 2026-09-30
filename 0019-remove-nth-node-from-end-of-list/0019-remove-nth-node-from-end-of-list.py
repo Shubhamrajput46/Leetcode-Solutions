@@ -1,22 +1,20 @@
 class Solution(object):
     def removeNthFromEnd(self, head, n):
 
-        length = 0
-        curr = head
+        p1=head
+        p2=head
 
-        # Find length
-        while curr:
-            length += 1
-            curr = curr.next
+        for i in range(n):
+            p2=p2.next
 
-        if n == length:
-            return head.next
+        if p2==None:
+            head=head.next
+            return head
+        
+        while p2.next !=None:
+            p2=p2.next
+            p1=p1.next
 
-        curr = head
-
-        for i in range(length - n - 1):
-            curr = curr.next
-            
-        curr.next = curr.next.next
+        p1.next=p1.next.next
 
         return head
