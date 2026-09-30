@@ -396,6 +396,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0002-add-two-numbers) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Combinatorics
