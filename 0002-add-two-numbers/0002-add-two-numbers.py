@@ -1,26 +1,31 @@
 class Solution:
-    def addTwoNumbers(self, l1, l2):
-        dummy = ListNode(0)
-        current = dummy
-        carry = 0
-
-        while l1 or l2 or carry:
-            x = l1.val if l1 else 0
-            y = l2.val if l2 else 0
-
-            total = x + y + carry
-
-            carry = total // 10
-            digit = total % 10
-
-            current.next = ListNode(digit)
-            current = current.next
-
-            if l1:
-                l1 = l1.next
-
-            if l2:
-                l2 = l2.next
-
-        return dummy.next
+    def addTwoNumbers(self, head1, head2):
+        curr1=head1
+        curr2=head2
         
+        ans=ListNode(-1)
+        c=0
+        curr3=ans
+        while curr1!=None or curr2 !=None:
+            total=c
+            c=0
+            if curr1 !=None:
+                total +=curr1.val
+                curr1=curr1.next
+            if curr2 !=None:
+                total +=curr2.val
+                curr2=curr2.next
+
+            if total>9:
+                c=1
+                total -=10
+            newNode=ListNode(total)
+            curr3.next=newNode
+
+            curr3 = curr3.next
+
+        if c>0:
+            newNode=ListNode(c)
+            curr3.next=newNode
+        return ans.next
+
