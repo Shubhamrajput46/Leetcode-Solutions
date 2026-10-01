@@ -171,6 +171,7 @@
 | [0189-rotate-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0844-backspace-string-compare](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -223,6 +224,7 @@
 | [0344-reverse-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1108-defanging-an-ip-address](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1108-defanging-an-ip-address) |
@@ -244,6 +246,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0844-backspace-string-compare](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Counting Sort
@@ -472,6 +475,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0232-implement-queue-using-stacks](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
