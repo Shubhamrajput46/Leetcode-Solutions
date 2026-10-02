@@ -457,16 +457,19 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -483,6 +486,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0232-implement-queue-using-stacks](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
