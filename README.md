@@ -471,6 +471,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -495,6 +496,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -546,4 +548,5 @@
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
