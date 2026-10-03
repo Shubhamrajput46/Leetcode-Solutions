@@ -36,6 +36,7 @@
 | [0877-stone-game](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -357,6 +358,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
 ## Merge Sort
 |  |
 | ------- |
