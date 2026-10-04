@@ -1,28 +1,18 @@
-class Solution:
+class Solution(object):
     def reverse(self, x):
+        sign = -1 if x < 0 else 1
+        x = abs(x)
 
         rev = 0
 
-        while x != 0:
-
-            if x < 0:
-                digit = -(abs(x) % 10)
-            else:
-                digit = x % 10
-
-            if rev > 214748364 or (rev == 214748364 and digit > 7):
-                return 0
-
-            if rev < -214748364 or (rev == -214748364 and digit < -8):
-                return 0
-
+        while x > 0:
+            digit = x % 10
             rev = rev * 10 + digit
+            x = x // 10
 
-            # Python me integer division negative numbers ke liye alag behave karti hai
-            if x < 0:
-                x = -(-x // 10)
-            else:
-                x = x // 10
+        rev = sign * rev
+
+        if rev < -2**31 or rev > 2**31 - 1:
+            return 0
 
         return rev
-        
