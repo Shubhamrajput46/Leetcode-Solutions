@@ -1,29 +1,24 @@
 class Solution(object):
-    def isAphanumeric(self,s):
-        x=ord(s)
-        if (97 <= x <= 122) or (65 <= x <= 90) or (48 <= x <= 57):
-            return True
-        return False
-
     def isPalindrome(self, s):
-        s = s.lower()
+        left = 0
+        right = len(s) - 1
 
-        i=0
-        j=len(s)-1
+        while left < right:
 
-        while i<j:
-            if not self.isAphanumeric(s[i]):
-                i +=1
+            # Special characters 
+            if not s[left].isalnum():
+                left += 1
                 continue
 
-            if not self.isAphanumeric(s[j]):
-                j-=1
+            if not s[right].isalnum():
+                right -= 1
                 continue
-                
-            if s[i]==s[j]:
-                i +=1
-                j -=1
-            
-            else:
+
+            # Lowercase compare 
+            if s[left].lower() != s[right].lower():
                 return False
+
+            left += 1
+            right -= 1
+
         return True
