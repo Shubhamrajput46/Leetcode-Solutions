@@ -229,6 +229,7 @@
 | [0125-valid-palindrome](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -470,6 +471,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Tree
@@ -526,6 +528,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
