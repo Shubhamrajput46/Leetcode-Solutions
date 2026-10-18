@@ -44,6 +44,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -133,6 +134,7 @@
 | [0169-majority-element](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0912-sort-an-array) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
 | ------- |
@@ -153,6 +155,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1563-stone-game-v](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
@@ -308,6 +311,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -329,6 +333,7 @@
 | ------- |
 | [0509-fibonacci-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -472,6 +477,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Number Theory
@@ -496,6 +502,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Breadth-First Search
 |  |
@@ -524,6 +531,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -552,6 +560,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Geometry
 |  |
@@ -619,6 +628,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Quickselect
 |  |
 | ------- |
@@ -641,4 +651,8 @@
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
