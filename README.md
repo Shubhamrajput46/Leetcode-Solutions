@@ -27,6 +27,7 @@
 | [0169-majority-element](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
@@ -194,6 +195,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
