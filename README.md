@@ -29,6 +29,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0485-max-consecutive-ones](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0835-image-overlap) |
