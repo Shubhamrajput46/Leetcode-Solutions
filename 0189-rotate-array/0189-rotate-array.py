@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def rotate(self, nums, k):
         n = len(nums)
         k = k % n
@@ -12,5 +12,3 @@ class Solution(object):
         reverse(0, n - 1)
         reverse(0, k - 1)
         reverse(k, n - 1)
-        
-        
