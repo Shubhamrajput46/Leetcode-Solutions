@@ -1,51 +1,39 @@
 class Solution(object):
     def fourSum(self, nums, target):
         nums.sort()
+        result = []
         n = len(nums)
-        ans = []
 
         for i in range(n - 3):
-
-            # duplicate i skip
             if i > 0 and nums[i] == nums[i - 1]:
                 continue
 
             for j in range(i + 1, n - 2):
-
-                # duplicate j skip
                 if j > i + 1 and nums[j] == nums[j - 1]:
                     continue
 
-                l = j + 1
-                r = n - 1
+                left = j + 1
+                right = n - 1
 
-                while l < r:
-                    total = nums[i] + nums[j] + nums[l] + nums[r]
+                while left < right:
+                    total = nums[i] + nums[j] + nums[left] + nums[right]
 
                     if total == target:
-                        ans.append([
-                            nums[i],
-                            nums[j],
-                            nums[l],
-                            nums[r]
+                        result.append([
+                            nums[i], nums[j], nums[left], nums[right]
                         ])
+                        left += 1
+                        right -= 1
 
-                        # duplicate l skip
-                        while l < r and nums[l] == nums[l + 1]:
-                            l += 1
+                        while left < right and nums[left] == nums[left - 1]:
+                            left += 1
 
-                        # duplicate r skip
-                        while l < r and nums[r] == nums[r - 1]:
-                            r -= 1
-
-                        l += 1
-                        r -= 1
+                        while left < right and nums[right] == nums[right + 1]:
+                            right -= 1
 
                     elif total < target:
-                        l += 1
-
+                        left += 1
                     else:
-                        r -= 1
+                        right -= 1
 
-        return ans
-        
+        return result
