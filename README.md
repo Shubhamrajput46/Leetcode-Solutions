@@ -31,6 +31,7 @@
 | [0169-majority-element](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -94,6 +95,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -226,6 +228,7 @@
 | [0088-merge-sorted-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0229-majority-element-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -245,6 +248,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -254,6 +258,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
