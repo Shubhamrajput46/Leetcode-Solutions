@@ -43,6 +43,7 @@
 | [0485-max-consecutive-ones](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0835-image-overlap) |
@@ -144,6 +145,7 @@
 | [0268-missing-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0493-reverse-pairs) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
