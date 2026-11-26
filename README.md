@@ -53,6 +53,7 @@
 | [0905-sort-array-by-parity](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0912-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1046-last-stone-weight) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -149,6 +150,7 @@
 | [0704-binary-search](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
