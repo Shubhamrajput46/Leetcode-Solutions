@@ -204,6 +204,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1903-largest-odd-number-in-string) |
+| [1922-count-good-numbers](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [1927-sum-game](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -388,6 +389,7 @@
 | [0231-power-of-two](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/1922-count-good-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shubhamrajput46/Leetcode-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Memoization
 |  |
